@@ -1,0 +1,19 @@
+email = donate@ithacacommunityorchestra.org
+
+paypal.me/ithacacommorchestra
+ico-paypal-merchant-qrcode-500x500.png
+--> note: merchant fees higher than donation fees
+
+DONATE (lower fees):
+
+ico-paypal-donate-qr-code-33x33.png   (1px each)
+ico-paypal-donate-qr-code-105x105.png (3px each, + white boundary)
+
+https://www.paypal.com/donate/?hosted_button_id=Y98ALHYRQEGUG
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="Y98ALHYRQEGUG" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
