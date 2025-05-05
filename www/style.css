@@ -165,6 +165,7 @@ div.leftbox {
  	clear: both;
 }
  
+/* SY disabled 2025-05: needless styling
 a {
  	color: #33d;
  	text-decoration: none;
@@ -173,6 +174,7 @@ a {
 a:hover {
  	text-decoration: underline;
 }
+*/
 
 td.singlebox {
   border: 1px solid DimGray;
